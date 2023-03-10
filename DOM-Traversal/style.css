@@ -38,6 +38,9 @@ body {
   line-height: 20px;
   padding: 0 5px;
 }
+.card a {
+  text-decoration: none;
+}
 
 .card .nama {
   margin-left: 20px;
